@@ -1,11 +1,12 @@
 ---
+## Overview
 # NarrativeCraft: Empowering Writers, Crafting Stories
 ---
-[NarrativeCraft](https://chatgpt.com/g/g-e5HaKUgbK-narrativecraft)
+[NarrativeCraft](https://chatgpt.com/g/g-e5HaKUgbK-narrativecraft) <-- Start your Journey!
 ---
 ## Overview
 
-NarrativeCraft is a cutting-edge platform designed to empower both novelists and screenwriters by streamlining the journey from conception to completion. It offers an expansive suite of tools that enhance writing, collaboration, and publication for books, movies, and TV scripts. Beyond its adaptive style learning and genre-specific templates, NarrativeCraft excels in visual design, featuring advanced tools for creating captivating book covers and promotional movie posters tailored to the content's themes and author's vision. With real-time writing assistance, interactive feedback mechanisms, and comprehensive research capabilities, NarrativeCraft ensures that each narrative is not only engaging but visually striking. Whether drafting a novel, scripting a feature film, or developing a television series, NarrativeCraft provides all the necessary resources to bring creative visions to life with precision and flair.
+NarrativeCraft is a cutting-edge platform designed to empower both novelists and screenwriters by streamlining the journey from conception to completion. It offers an expansive suite of tools that enhance writing, collaboration, and publication for books, movies, and TV scripts. With advanced features for adaptive style learning, genre-specific templates, and visual design, NarrativeCraft ensures that each narrative is not only engaging but also visually striking.
 
 ## Key Features
 
@@ -37,6 +38,34 @@ NarrativeCraft is a cutting-edge platform designed to empower both novelists and
 - **Capability:** Provides relevant data, historical facts, scientific explanations, and more.
 - **Functionality:** Ensures accuracy and depth in the manuscript through extensive research support.
 
+### Audiobook Creation Support
+- **Capability:** Assists in creating professional-quality audiobooks.
+- **Functionality:** Offers tools for recording, editing, and producing audiobooks, ensuring high-quality audio output.
+
+### Interactive Writing Prompts
+- **Capability:** Provides prompts to stimulate creative writing.
+- **Functionality:**
+  - Users can receive prompts tailored to their genre and writing style.
+  - Prompts can be customized to address specific aspects of the story or character development.
+
+### Voice and Tone Analyzer
+- **Capability:** Analyzes the voice and tone of the writing.
+- **Functionality:**
+  - Provides feedback on consistency and appropriateness of voice and tone.
+  - Suggests adjustments to align with genre or intended emotional impact.
+
+### Character Development Assistant
+- **Capability:** Assists in creating and developing characters.
+- **Functionality:**
+  - Offers insights into character traits, motivations, and arcs.
+  - Provides interactive exercises and questionnaires to deepen character understanding.
+
+### Interactive Plot Development
+- **Capability:** Aids in developing engaging plots and subplots.
+- **Functionality:**
+  - Helps outline story arcs, identify key plot points, and create narrative twists.
+  - Supports iterative development with user feedback to refine plot structure.
+
 ## New Features Added
 
 ### DALL-E Image Generation
@@ -60,6 +89,40 @@ NarrativeCraft is a cutting-edge platform designed to empower both novelists and
   - **Conceptual Maps:**
     - **Functionality:** Generates conceptual descriptions of geographical layouts using GPT-3.
     - **Example:** Create a conceptual map for a fantasy world with key landmarks.
+
+### Interactive Plot Development Tool
+- **Capability:** Advanced plot development assistance using GPT-3.
+- **Functionality:**
+  - **Generate Plot Outlines:** Provides detailed plot outlines and story arcs based on user input and genre.
+  - **Plot Consistency Checks:** Analyzes existing plots for consistency and coherence, suggesting improvements.
+
+### Character Development Assistant
+- **Capability:** Assists with character creation and development using GPT-3.
+- **Functionality:**
+  - **Character Templates:** Provides templates for multi-dimensional characters, including traits, backstories, and arcs.
+  - **Relationship Mapping:** Visualizes and manages relationships between characters.
+  - **Character Arcs:** Helps develop character arcs showing growth and change over the course of the story.
+
+### Voice and Tone Analyzer
+- **Capability:** Provides feedback on voice and tone consistency using NLU services.
+- **Functionality:**
+  - **Voice Consistency:** Ensures narrative voice and style are consistent.
+  - **Tone Matching:** Adjusts the tone to better suit the intended audience and genre.
+  - **Style Improvement:** Provides tips and suggestions to enhance overall style and readability.
+
+### Audiobook Creation Support
+- **Capability:** Integration with text-to-speech technology for audiobook creation.
+- **Functionality:**
+  - **Convert Text to Speech:** Converts written content into spoken word using Google Cloud Text-to-Speech or Amazon Polly.
+  - **Customize Voices:** Selects from various voice options.
+  - **Generate Audiobook Files:** Provides downloadable audio files.
+
+### Interactive Writing Prompts
+- **Capability:** Library of AI-generated writing prompts and exercises using GPT-3.
+- **Functionality:**
+  - **Creativity Boost:** Generates writing prompts and exercises.
+  - **Skill Development:** Focuses on specific writing skills, such as dialogue, description, and pacing.
+  - **Inspiration:** Overcomes writer’s block and sparks new ideas.
 
 ## Integration and Usage
 
