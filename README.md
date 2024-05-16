@@ -1,6 +1,6 @@
 ---
 # NarrativeCraft: Empowering Writers, Crafting Stories
---
+---
 ## Overview
 
 NarrativeCraft is a cutting-edge platform designed to empower both novelists and screenwriters by streamlining the journey from conception to completion. It offers an expansive suite of tools that enhance writing, collaboration, and publication for books, movies, and TV scripts. With advanced features for adaptive style learning, genre-specific templates, and visual design, NarrativeCraft ensures that each narrative is not only engaging but also visually striking.
