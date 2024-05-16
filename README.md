@@ -1,6 +1,8 @@
 ---
 # NarrativeCraft: Empowering Writers, Crafting Stories
 ---
+[NarrativeCraft](https://chatgpt.com/g/g-e5HaKUgbK-narrativecraft)
+---
 ## Overview
 
 NarrativeCraft is a cutting-edge platform designed to empower both novelists and screenwriters by streamlining the journey from conception to completion. It offers an expansive suite of tools that enhance writing, collaboration, and publication for books, movies, and TV scripts. Beyond its adaptive style learning and genre-specific templates, NarrativeCraft excels in visual design, featuring advanced tools for creating captivating book covers and promotional movie posters tailored to the content's themes and author's vision. With real-time writing assistance, interactive feedback mechanisms, and comprehensive research capabilities, NarrativeCraft ensures that each narrative is not only engaging but visually striking. Whether drafting a novel, scripting a feature film, or developing a television series, NarrativeCraft provides all the necessary resources to bring creative visions to life with precision and flair.
