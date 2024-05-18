@@ -1,9 +1,8 @@
 ---
-
 ## NarrativeCraft: Empowering Writers, Crafting Stories
-
+---
 Start you Journey Here: [NarrativeCraft](https://chatgpt.com/g/g-e5HaKUgbK-narrativecraft)
-
+---
 ### Meta-Description
 Discover NarrativeCraft, a powerful platform designed to streamline and enhance the writing process for novelists and screenwriters. From adaptive style learning to real-time collaboration, uncover how NarrativeCraft transforms storytelling.
 
@@ -214,9 +213,7 @@ Users can edit the content of existing Google Docs. This feature supports batch 
 
 ### **Integration and Usage**
 
-NarrativeCraft features are integrated via custom actions using separate OpenAPI specifications for various
-
- APIs. The user interface allows seamless interaction with these features, making it easy to incorporate generated content into your writing projects.
+NarrativeCraft features are integrated via custom actions using separate OpenAPI specifications for various APIs. The user interface allows seamless interaction with these features, making it easy to incorporate generated content into your writing projects.
 
 **API Integration:**
 - Secure management of API keys
@@ -255,5 +252,4 @@ Can NarrativeCraft assist in creating audiobooks?
 
 What new features have been added to NarrativeCraft recently?
 - Recent additions to NarrativeCraft include DALL-E image generation, a world-building toolkit, advanced plot development assistance, Google Books integration for book search and details, and Google Docs integration for real-time collaboration.
-
 ---
