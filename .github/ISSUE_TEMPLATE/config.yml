@@ -1,0 +1,89 @@
+# .github/ISSUE_TEMPLATE/config.yml
+
+blank_issues_enabled: false
+contact_links:
+  - name: 👋 Welcome to NarrativeCraft Discussions!
+    url: https://github.com/RealShocky/NarrativeCraft/discussions
+    about: >
+      Welcome to the NarrativeCraft community! Use Discussions to ask questions, share ideas, and engage with other writers. Click the link to join our community discussions.
+
+issue_templates:
+  - name: Bug report
+    description: Report a problem with the NarrativeCraft platform
+    title: "[Bug] - "
+    labels: ["bug"]
+    body:
+      - type: markdown
+        attributes:
+          value: |
+            Thanks for taking the time to report a bug in NarrativeCraft. Please fill out the information below to help us resolve the issue quickly.
+      - type: input
+        attributes:
+          label: Short description
+          description: A brief description of the bug.
+          placeholder: Describe the issue in one sentence
+      - type: textarea
+        attributes:
+          label: Steps to reproduce
+          description: Detailed steps to reproduce the issue.
+          placeholder: List the steps in order
+      - type: textarea
+        attributes:
+          label: Expected behavior
+          description: What you expected to happen.
+          placeholder: Describe what you expected to happen
+      - type: textarea
+        attributes:
+          label: Actual behavior
+          description: What actually happened.
+          placeholder: Describe what actually happened
+      - type: input
+        attributes:
+          label: Screenshots
+          description: Add any screenshots that may help us understand the issue.
+          placeholder: Add a URL or drag and drop images
+
+  - name: Feature request
+    description: Suggest a new feature for NarrativeCraft
+    title: "[Feature] - "
+    labels: ["enhancement"]
+    body:
+      - type: markdown
+        attributes:
+          value: |
+            Thanks for suggesting a new feature for NarrativeCraft! Please provide details about your idea below.
+      - type: input
+        attributes:
+          label: Feature description
+          description: A brief description of the feature.
+          placeholder: Describe the new feature
+      - type: textarea
+        attributes:
+          label: How it improves the platform
+          description: Explain how this feature would improve the NarrativeCraft experience.
+          placeholder: Describe the benefits of the feature
+      - type: input
+        attributes:
+          label: Additional context
+          description: Any other context or information.
+          placeholder: Add any additional information
+
+  - name: General question
+    description: Ask a general question about NarrativeCraft
+    title: "[Question] - "
+    labels: ["question"]
+    body:
+      - type: markdown
+        attributes:
+          value: |
+            Got a question about NarrativeCraft? Ask away! Provide as much detail as possible to help us answer your question.
+      - type: input
+        attributes:
+          label: Question
+          description: What is your question about?
+          placeholder: Ask your question
+      - type: textarea
+        attributes:
+          label: Additional details
+          description: Any additional details or context for your question.
+          placeholder: Add more information if needed
