@@ -1,4 +1,8 @@
+---
+
 ## NarrativeCraft: Empowering Writers, Crafting Stories
+
+Start you Journey Here: [NarrativeCraft](https://chatgpt.com/g/g-e5HaKUgbK-narrativecraft)
 
 ### Meta-Description
 Discover NarrativeCraft, a powerful platform designed to streamline and enhance the writing process for novelists and screenwriters. From adaptive style learning to real-time collaboration, uncover how NarrativeCraft transforms storytelling.
@@ -26,6 +30,8 @@ In the evolving landscape of creative writing, NarrativeCraft emerges as a groun
 | **New Features in NarrativeCraft** | Overview of recent additions |
 | **DALL-E Image Generation** | Capabilities, examples, benefits |
 | **World-Building Toolkit** | Setting descriptions, cultural notes, timelines, maps |
+| **Google Books Integration** | Book search, book details |
+| **Google Docs Integration** | Real-time collaboration, document creation, document editing |
 | **Integration and Usage** | How to integrate and use NarrativeCraft features |
 | **Example Prompts and API Usage** | Examples of using NarrativeCraft's API |
 | **Conclusion** | Summary of benefits, final thoughts |
@@ -166,9 +172,51 @@ The world-building toolkit provides tools for creating detailed settings and wor
 - Historical timelines
 - Conceptual maps
 
+### **Google Books Integration**
+
+#### Search for Books
+NarrativeCraft integrates with the Google Books API to allow users to search for books by providing a search query. The results include details such as the book's title, authors, publisher, published date, description, and categories.
+
+**Features:**
+- Search for books based on a query
+- Retrieve detailed book information
+- Incorporate book data into writing projects
+
+#### Retrieve Book Details
+Users can retrieve detailed information for specific books using their volume ID. This includes comprehensive details like title, authors, publisher, published date, description, industry identifiers, and categories.
+
+**Benefits:**
+- Access to a vast database of book information
+- Detailed data to enhance research and writing accuracy
+
+### **Google Docs Integration**
+
+#### Create a New Google Doc
+NarrativeCraft allows users to create new Google Docs for real-time collaboration. This feature provides the ability to generate new documents directly within the platform.
+
+**Features:**
+- Create new Google Docs for collaboration
+- Customize document properties
+
+#### Share Google Doc with Collaborators
+Users can share Google Docs with collaborators by assigning roles such as writer, commenter, or reader. This enables seamless real-time collaboration.
+
+**Benefits:**
+- Facilitate teamwork with co-authors and editors
+- Control access and permissions for each document
+
+#### Edit Google Doc Content
+Users can edit the content of existing Google Docs. This feature supports batch update requests to apply changes to the document, enhancing the collaborative writing process.
+
+**Tools:**
+- Batch update requests for document editing
+- Real-time content updates for collaboration
+
 ### **Integration and Usage**
 
-NarrativeCraft features are integrated via custom actions using separate OpenAPI specifications for OpenAI and Wolfram Alpha. The user interface allows seamless interaction with these features, making it easy to incorporate generated content into your writing projects.
+NarrativeCraft features are integrated via custom actions using separate OpenAPI specifications for various
+
+ APIs. The user interface allows seamless interaction with these features, making it easy to incorporate generated content into your writing projects.
 
 **API Integration:**
 - Secure management of API keys
@@ -199,13 +247,13 @@ Can I collaborate with other writers in real-time using NarrativeCraft?
 What kind of writing prompts does NarrativeCraft provide?
 - NarrativeCraft provides interactive writing prompts tailored to your genre and writing style, helping stimulate creativity and overcome writer's block.
 
-How does the cover design wizard enhance my book’s
-
- appeal?
+How does the cover design wizard enhance my book’s appeal?
 - The cover design wizard generates visually stunning book cover mockups with customizable options for typography, imagery, and color schemes, ensuring your book stands out on shelves and digital platforms.
 
 Can NarrativeCraft assist in creating audiobooks?
 - Yes, NarrativeCraft offers tools for recording, editing, and producing professional-quality audiobooks, making the audiobook creation process accessible and streamlined.
 
 What new features have been added to NarrativeCraft recently?
-- Recent additions to NarrativeCraft include DALL-E image generation, a world-building toolkit, and advanced plot development assistance, further enhancing the platform’s capabilities for writers.
+- Recent additions to NarrativeCraft include DALL-E image generation, a world-building toolkit, advanced plot development assistance, Google Books integration for book search and details, and Google Docs integration for real-time collaboration.
+
+---
